@@ -12,7 +12,6 @@
 
 - query processing
 
-  * multiple words
   * boolean selection
   * categorical filters
   * partial filters
