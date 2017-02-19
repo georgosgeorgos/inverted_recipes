@@ -1,6 +1,6 @@
 # inverted_recipes
 
-## Build a search engine for BBC recipes using Python
+## search engine for BBC recipes using Python
 
 - web scraping using BeautifulSoup
 - preprocessing using NLTK
