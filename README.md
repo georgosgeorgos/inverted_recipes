@@ -18,6 +18,7 @@
 
 - inverted index
 
+  * vector space model
   * posting list
   * tf–idf
   * skip pointers method
