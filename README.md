@@ -16,7 +16,7 @@
   * categorical filters
   * partial filters
 
-- inverted index
+- inverted index (non positional)
 
   * vector space model
   * posting list
